@@ -12,6 +12,13 @@
     source/developers
     source/references
 
+.. warning::
+    You are viewing the documentation for FLORIS v2, but the
+    latest version is FLORIS v3. This site is out of date
+    and will not be updated.
+
+    See the latest documentation at https://nrel.github.io/floris.
+
 
 FLORIS Wake Modeling Utility
 ----------------------------
